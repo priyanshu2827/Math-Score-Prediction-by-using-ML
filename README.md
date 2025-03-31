@@ -31,3 +31,14 @@ git commit -m "first commit"
 
 if do not see mlproject.egg-info use 
 pip install -e
+
+WHOLE PROCESS : pushing eveything in repo
+step 1: git add .
+step 2: git status
+step 3: git commit -m "setup" (use to commit everychanges in the by name )
+step 4: git push -u origin main(push evrything from origin)
+step 5: check 
+
+thing in the component is data_ingestion, data_transformation, model_trainer (This components (are the module) is basically used for training purpose)
+
+by using the train_pipeline we will try to trigger all the components
