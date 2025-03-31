@@ -23,3 +23,11 @@ conda activate venv/
 step4: To clone the repository and sync with github
 
 step5: create readme.md file 
+
+step6: follow the step in the github repo
+git config --global user.email "you@example.com"
+git config --global user.name "youexample"
+git commit -m "first commit"
+
+if do not see mlproject.egg-info use 
+pip install -e
