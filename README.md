@@ -1,3 +1,63 @@
+
+# 📌 Math Score Prediction Model
+
+![Project Output](docs/output.png)
+
+## 📖 Overview
+This project is a Machine Learning model that predicts students' math scores based on various characteristics such as gender, parental education level, lunch type, test preparation course, and reading and writing scores. The execution follows the steps demonstrated in [this video tutorial](https://youtu.be/1m3CPP-93RI?si=Js2pySjw3ymDIn2T).
+
+## 🚀 Features
+- **📊 Data Preprocessing** – Cleans and prepares the dataset for training.
+- **📈 Exploratory Data Analysis (EDA)** – Visualizes relationships between features.
+- **🧠 Machine Learning Model** – Implements a regression model to predict math scores.
+- **📤 Model Evaluation** – Assesses performance using metrics such as RMSE and R² score.
+
+## 🛠️ Tech Stack
+- **Programming Language:** Python
+- **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Model Type:** Linear Regression
+
+## 📺 Execution Guide
+This project follows the execution steps from the video tutorial linked above.
+
+### 🔧 Setup & Installation
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/your-username/math-score-prediction.git
+   cd math-score-prediction
+   ```
+2. **Install Dependencies**
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. **Run the Project**
+   ```sh
+   python main.py
+   ```
+
+## 📸 Output Screenshot
+![Project Output](docs/output.png)
+
+## 🏆 Achievements
+- Successfully executed based on the reference video.
+- Developed an accurate regression model for predicting student math scores.
+
+## 🤝 Contributing
+Feel free to fork this repository and submit pull requests! 🚀
+
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+
+### 📬 Contact
+For any queries, reach out via **priyanshusakharkar2827@gmail.com** or open an issue in this repository!
+
+
+
+
+
+
 End to End ML project 
 - setup project with github
 1.data ingestion
@@ -42,3 +102,4 @@ step 5: check
 thing in the component is data_ingestion, data_transformation, model_trainer (This components (are the module) is basically used for training purpose)
 
 by using the train_pipeline we will try to trigger all the components
+
