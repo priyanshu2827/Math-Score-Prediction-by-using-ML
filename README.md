@@ -1,7 +1,8 @@
 
 # 📌 Math Score Prediction Model
 
-![Project Output](docs/output.png)
+![Project Output](output.jpeg)
+
 
 ## 📖 Overview
 This project is a Machine Learning model that predicts students' math scores based on various characteristics such as gender, parental education level, lunch type, test preparation course, and reading and writing scores. The execution follows the steps demonstrated in [this video tutorial](https://youtu.be/1m3CPP-93RI?si=Js2pySjw3ymDIn2T).
